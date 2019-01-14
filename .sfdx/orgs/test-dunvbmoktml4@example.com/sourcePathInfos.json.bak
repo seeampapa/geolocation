@@ -45,15 +45,15 @@
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1547496089039,
             "changeTime": 1547496089039,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 542,
             "modifiedTime": 1547496210104,
             "changeTime": 1547496210104,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1547496235748,
             "changeTime": 1547496235748,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 330,
             "modifiedTime": 1547496287933,
             "changeTime": 1547496287933,
-            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9c0b549aa28ba0a5368296b95374b3c5e9e190c3"
         }
     ],
     [
@@ -1039,10 +1039,10 @@
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 791,
-            "modifiedTime": 1547496527496,
-            "changeTime": 1547496527496,
-            "contentHash": "bcdee75f96ff67b83d82672ff8e0a2fd6c714fd9"
+            "size": 794,
+            "modifiedTime": 1547496342412,
+            "changeTime": 1547496342412,
+            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
         }
     ],
     [
@@ -1074,40 +1074,40 @@
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1547496089040,
             "changeTime": 1547496089040,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
         }
     ],
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1547496112255,
             "changeTime": 1547496112255,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
         }
     ],
     [
         "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/amp/pradeep/projects/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1547496089040,
             "changeTime": 1547496089040,
-            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "4b19d3ff07a5d4014613c9c30fffb326546e8c50"
         }
     ]
 ]
